@@ -28,9 +28,9 @@ We'll then decompose the P&L into contributions from different Greeks and plot i
 
 And their profit and loss (P&L) contributions:
 
-1. **Delta P&L:** $\text{Delta P\&L} = \Delta \times (S_1 - S_0)$
-2. **Gamma P&L:** $\text{Gamma P\&L} = 0.5 \times \Gamma \times (S_1 - S_0)^2$
-3. **Theta P&L:** $\text{Theta P\&L} = \Theta \times \Delta t$
-4. **Vega P&L:** $\text{Vega P\&L} = \nu \times (\sigma_1 - \sigma_0)$
-5. **Volga P&L:**$\text{Volga P\&L} = 0.5 \times \text{Volga} \times (\sigma_1 - \sigma_0)^2$
-6. **Vanna P&L:** $\text{Vanna P\&L} = Vanna \times (S_1 - S_0) \times (\sigma_1 - \sigma_0)$
+1. **Delta P&L:** $\text{Delta PnL} = \Delta \times (S_1 - S_0)$
+2. **Gamma P&L:** $\text{Gamma PnL} = 0.5 \times \Gamma \times (S_1 - S_0)^2$
+3. **Theta P&L:** $\text{Theta PnL} = \Theta \times \Delta t$
+4. **Vega P&L:** $\text{Vega PnL} = \nu \times (\sigma_1 - \sigma_0)$
+5. **Volga P&L:**$\text{Volga PnL} = 0.5 \times \text{Volga} \times (\sigma_1 - \sigma_0)^2$
+6. **Vanna P&L:** $\text{Vanna PnL} = Vanna \times (S_1 - S_0) \times (\sigma_1 - \sigma_0)$
